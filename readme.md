@@ -12,7 +12,9 @@
 
 |          **主窗口**          |             **选择图片**              |             **开始比对**              |
 |:-------------------------:|:---------------------------------:|:---------------------------------:|
-| ![](screenshots/app.png) | ![](screenshots/selectImage.png) | ![](screenshots/objectResult.png) | 
+|<img width="320" height="661" alt="image" src="https://github.com/user-attachments/assets/3bbd82a6-425f-48d0-a03c-2db141776395" /> |[ ![](screenshots/selectImage.png) ](https://raw.gitcode.com/HarmonyOS_Samples/core-vision-kit-sample-code-ark-ts-object-detect-demo/files/master/screenshots/selectImage.png)| <img width="320" height="661" alt="image" src="https://github.com/user-attachments/assets/7bb58c71-0330-45d4-8869-bf922fadb591" />
+ | 
+
 
 使用说明：
 
