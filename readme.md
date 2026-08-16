@@ -12,8 +12,7 @@
 
 |          **主窗口**          |             **选择图片**              |             **开始比对**              |
 |:-------------------------:|:---------------------------------:|:---------------------------------:|
-|<img width="320" height="661" alt="image" src="https://github.com/user-attachments/assets/3bbd82a6-425f-48d0-a03c-2db141776395" /> |<img width="320" height="661" alt="image" src="https://github.com/user-attachments/assets/007a3f10-0bee-42b9-959d-580de7a64c10" />
-| <img width="320" height="661" alt="image" src="https://github.com/user-attachments/assets/7bb58c71-0330-45d4-8869-bf922fadb591" />
+|<img width="320" height="661" alt="image" src="https://github.com/user-attachments/assets/3bbd82a6-425f-48d0-a03c-2db141776395" /> |<img width="320" height="661" alt="image" src="https://github.com/user-attachments/assets/007a3f10-0bee-42b9-959d-580de7a64c10" /> | <img width="320" height="661" alt="image" src="https://github.com/user-attachments/assets/7bb58c71-0330-45d4-8869-bf922fadb591" />
  | 
 
 
